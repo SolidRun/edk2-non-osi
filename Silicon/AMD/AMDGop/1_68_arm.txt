@@ -1,0 +1,14 @@
+
+GopInfo AMD ver. 2.7. Generate Info for file GENGOP.arm64.efi: (Gop Driver)
+==========================================
+
+  Dump Gop Driver Info:
+    Machine type code      AARCH64
+    The GOP Driver is not Authenticode signed.
+    Size Of Gop Image      128352 (125 KB)
+    The Gop driver image has 4 sections.
+    GOP Driver Name: AMD GOP ARM64 Release Driver, Rev. 1.68.0.15.50.Apr  2 2019.12:22:00
+    GOP AMD_Build          2163 
+    GOP AMD_CL             1764778 
+    GOP BIOS_IDTF          0xDEADBEEF 
+    GOP Driver does not carry tables!
